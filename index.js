@@ -31,9 +31,9 @@ const songs = [
     },
     {
         path: 'assets/4.mp3',
-            displayName: 'elektrogee (miguel picasso remix)',
+            displayName: 'elektrogee remix',
             cover: 'assets/4.jpg',
-            artist: 'Ferrero, Del moral & Gee Moore',
+            artist: 'Ferrero Del moral & Gee Moore',
     },
     {
         path: 'assets/5.mp3',
